@@ -1,0 +1,26 @@
+# Site settings
+name: JiangNanMusic
+email: wuyin.0719@gmail.com
+author: Jiang Nan
+url: http://www.hifreud.com
+resume_site: http://www.hifreud.com/Resume.io/
+github: https://github.com/JiangNanMusic/
+baseurl:
+description: JiangNanMusic
+meta_description: 学而不思则罔;思而不学则殆;生命不止;折腾不休
+motto: 爱生活，爱音乐
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: JiangNanMusic
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
