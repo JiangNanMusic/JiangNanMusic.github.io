@@ -1,1 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Actually, less is more!</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Apr 2019 22:13:48 +0800</pubDate>
+    <lastBuildDate>Fri, 12 Apr 2019 22:13:48 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Welcome to 江南乐队!</title>
+        <description>&lt;h2 id=&quot;welcome-to-江南乐队&quot;&gt;Welcome to 江南乐队&lt;/h2&gt;
 
+&lt;p&gt;“江南乐队”是刘思民想出来的，江南在我们的想象中是悠然的，又带有淡淡的故国之思。&lt;/p&gt;
+
+&lt;p&gt;生活中我们也许追名逐利，也许倍感生活与学习的压力，但是“江南乐队”，爱生活，追求自由。&lt;/p&gt;
+
+&lt;h3 id=&quot;核心团队&quot;&gt;核心团队&lt;/h3&gt;
+
+&lt;p&gt;我们的团队有来自华为的产品经理、来自北航即将毕业的高材生、有来自中国港湾的路桥&lt;/p&gt;
+
+&lt;p&gt;技术工程师，有来自InSAR领域的数据分析师，来自林科院准备写论文的硕士研究生。&lt;/p&gt;
+
+&lt;p&gt;我们在这社会里，分工都不一样，但是anyway，我们因为缘分、因为音乐、因为自由走到了一起。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/styles/images/music-band/2.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;来日纵使千千晚星
+亮过今晚月亮
+都比不起这宵美丽
+亦绝不可使我更欣赏
+因你今晚共我唱
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/styles/images/music-band/1.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;760&quot; height=&quot;515&quot; src=&quot;https://player.bilibili.com/player.html?aid=48777253&amp;amp;cid=85458711&amp;amp;page=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;欢迎加入&quot;&gt;欢迎加入&lt;/h3&gt;
+
+&lt;p&gt;我们会定期更换演唱地址，消息会及时发布在公众号上，希望有诚意的伙伴一起加入我们，我们有音箱，有吉他，有麦克风，我们约您来战。&lt;/p&gt;
+&lt;h3 id=&quot;support-or-contact&quot;&gt;Support or Contact&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/styles/images/QRcode.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Apr 2019 13:31:01 +0800</pubDate>
+        <link>http://localhost:4000/2019/04/01/Everything-have-a-begining/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/01/Everything-have-a-begining/</guid>
+        
+        <category>JianNan</category>
+        
+        
+        <category>Music</category>
+        
+      </item>
+    
+  </channel>
+</rss>
