@@ -30,5 +30,3 @@ Welcome to 江南乐队
 \#\#\# Support or Contact
 
 [Alt text]({{ '/styles/images/QRcode.png' \| prepend: site.baseurl }})
-
-![Alt text]({{ '/styles/images/rewad.png' \| prepend: site.baseurl }})
